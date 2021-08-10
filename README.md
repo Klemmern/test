@@ -1,2 +1,2 @@
 # test
-hei og hå
+hei og hå!
